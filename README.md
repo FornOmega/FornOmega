@@ -8,17 +8,15 @@
 
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-
 </div>
 
 ---
 
-### 👨‍💻: About Me :
+### 👨‍💻 - About Me :
 I am a Computer Engineering Student 💻:.
-- 🧑‍🎓: I’m currently learning and deepening Machine Learning, AI, Deep Learning, Robotics, Control Systems, Probability and Statistic.
-
-- 🤖: I'm also interested in Embedded Systems.
-
+- 🧑‍🎓: I’m currently learning and deepening Machine Learning, AI, Deep Learning, Computer Vision, Robotics, Control Systems, Probability and Statistic.
+- 🤖: I'm also interested in Embedded Systems and Math.
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
