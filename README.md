@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVscWUxMmplendkbGI5a3Y2cGtxM3M0bGhpNXl3cG5neTN0aWJieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width=100>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 </div>
