@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVscWUxMmplendkbGI5a3Y2cGtxM3M0bGhpNXl3cG5neTN0aWJieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width=100>
+</div>
+
 <!--
 **FornOmega/FornOmega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
