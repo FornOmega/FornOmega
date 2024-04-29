@@ -15,7 +15,7 @@
 ### 👨‍💻 - About Me :
 I am a Computer Engineering Student 💻:.
 - 🧑‍🎓: I’m currently learning and deepening Machine Learning, AI, Deep Learning, Computer Vision, Robotics, Control Systems, Probability and Statistic.
-- 🤖: I'm also interested in Embedded Systems and Math.
+- 🤖: I'm also interested in Embedded Systems, Math and Quantum Computing.
 - 🔭 I’m currently working on mini-drone project⚡
   
 ---
