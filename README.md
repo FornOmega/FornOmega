@@ -12,7 +12,7 @@
 
 ---
 
-### 👨‍💻 - About Me :
+### 👨‍💻 About Me :
 I am a Computer Engineering Student 💻:.
 - 🧑‍🎓: I’m currently focusing on Machine Learning, AI, Deep Learning, Computer Vision, Robotics, Control Systems, Probability and Statistic.
 - 🤖: I'm also interested in Advanced Math (Calculus and so on) and Quantum Computing.
@@ -55,6 +55,10 @@ I am a Computer Engineering Student 💻:.
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GITHUB" **alt="GITHUB" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>-->
 </div>
+---
+
+### ❗: Projects :
+Soon new repositories/projects regarding Machine Learning topics and so on
 
 <!--https://www.sitepoint.com/github-profile-readme/->
 <!--https://github.com/devicons/devicon/tree/master/icons->
