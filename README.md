@@ -59,7 +59,7 @@ I am a Computer Engineering Student 💻:.
 ---
 
 ### ❗: Projects :
-Soon new repositories/projects regarding Machine Learning topics and so on
+Soon new repository/projects regarding Machine Learning topics and so on
 
 <!--https://www.sitepoint.com/github-profile-readme/->
 <!--https://github.com/devicons/devicon/tree/master/icons->
