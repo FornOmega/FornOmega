@@ -14,8 +14,8 @@
 
 ### 👨‍💻 - About Me :
 I am a Computer Engineering Student 💻:.
-- 🧑‍🎓: I’m currently learning and deepening Machine Learning, AI, Deep Learning, Computer Vision, Robotics, Control Systems, Probability and Statistic.
-- 🤖: I'm also interested in Embedded Systems, Math and Quantum Computing.
+- 🧑‍🎓: I’m currently focusing on Machine Learning, AI, Deep Learning, Computer Vision, Robotics, Control Systems, Probability and Statistic.
+- 🤖: I'm also interested in Advanced Math (Calculus and so on) and Quantum Computing.
 - 🔭 I’m currently working on mini-drone project⚡
   
 ---
@@ -42,6 +42,7 @@ I am a Computer Engineering Student 💻:.
   <img src="https://github.com/devicons/devicon/blob/master/icons/materializecss/materializecss-original.svg"  title="MATERIALIZECSS" alt="MATERIALIZECSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="LARAVEL" alt="LARAVEL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
