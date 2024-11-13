@@ -15,8 +15,8 @@
 ### 👨‍💻 About Me :
 I am a Computer Engineering Student 💻:.
 - 🧑‍🎓: I’m currently focusing on Machine Learning, AI, Deep Learning, Computer Vision, Robotics, Control Systems, Probability and Statistic.
-- 🤖: I'm also interested in Advanced Math (Calculus and so on) and Quantum Computing.
-- 🔭 I’m currently working on mini-drone project⚡
+<!--- 🤖: I'm also interested in Advanced Math (Calculus and so on) and Quantum Computing.
+- 🔭 I’m currently working on mini-drone project⚡-->
   
 ---
 
