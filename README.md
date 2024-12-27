@@ -20,7 +20,7 @@ I am a Computer Engineering Student 💻:.
   
 ---
 
-### :hammer_and_wrench: Preferred Languages and Tools :
+### :hammer_and_wrench: Preferred Languages, Frameworks and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
