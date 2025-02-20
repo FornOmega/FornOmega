@@ -17,7 +17,7 @@ I am a Computer Engineering Student 💻:.
 - 🧑‍🎓: I’m currently focusing on Machine Learning, AI, Deep Learning, Computer Vision, Robotics, Control Systems, Probability and Statistic.
 <!--- 🤖: I'm also interested in Advanced Math (Calculus and so on) and Quantum Computing.
 - 🔭 I’m currently working on mini-drone project⚡-->
-  
+- 🔭 I’m currently working on HAR maching learning based project⚡
 ---
 
 ### :hammer_and_wrench: Preferred Languages, Frameworks and Tools :
@@ -60,7 +60,7 @@ I am a Computer Engineering Student 💻:.
 ---
 
 ### ❗: Projects :
-Soon new repository/projects regarding Machine/Deep Learning, AI, Computer Vision and Robotics.
+Soon new repository/projects regarding Machine/Deep Learning, AI, Computer Vision and Autonomous and Mobile Robotics.
 
 <!--https://www.sitepoint.com/github-profile-readme/->
 <!--https://github.com/devicons/devicon/tree/master/icons->
