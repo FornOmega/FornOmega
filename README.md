@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me :
 I am a Computer Engineering Student 💻:.
-- 🧑‍🎓: I’m currently focusing on Machine Learning, AI, Deep Learning, Computer Vision, Robotics, Control Systems, Probability and Statistic.
+- 🧑‍🎓: I’m currently focusing on Machine Learning, AI, Deep Learning, Computer Vision, Autonomous Mobile Robotics.
 <!--- 🤖: I'm also interested in Advanced Math (Calculus and so on) and Quantum Computing.
 - 🔭 I’m currently working on mini-drone project⚡-->
 - 🔭 I’m currently working on HAR maching learning based project⚡
@@ -70,7 +70,7 @@ Inoltre: Simulink, CasADi (conoscenze limitate), PIL, scikit-image (conoscenze b
 ---
 
 ### ❗: Projects :
-Soon new repository/projects regarding Machine/Deep Learning, AI, Computer Vision and Autonomous Mobile Robotics.
+Soon new projects regarding Machine/Deep Learning, AI, Computer Vision, Autonomous Mobile Robotics and Computer Graphics.
 
 <!--https://www.sitepoint.com/github-profile-readme/->
 <!--https://github.com/devicons/devicon/tree/master/icons->
